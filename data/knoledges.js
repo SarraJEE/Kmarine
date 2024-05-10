@@ -1,9 +1,9 @@
 export const knoledges = [
-  "Digital Design",
-  "Marketing",
-  "Communication",
-  "Social Media",
-  "Time Management",
-  "Flexibility",
-  "Print",
+  "Aquaculture",
+  "Nutrition",
+  "Spirulina farming",
+  "Docking molucular",
+  "Physiology",
+  "Phytotherapy",
+  
 ];
