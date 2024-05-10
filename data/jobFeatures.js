@@ -1,24 +1,24 @@
 export const items = [
   {
     id: 1,
-    icon: "/assets/img/kari.jpg",
+    icon: "/assets/img/kariwork1.jpg",
     title: "",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
+      "Conducting Phycocyanin Extraction Trials at SARL K marine.",
     bg: "bg-prink",
   },
   {
     id: 2,
-    icon: "/assets/img/app-development.svg",
-    title: "App Development",
+    icon: "/assets/img/kariwork2.jpg",
+    title: "",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
+      "Witness nature's artistry unfold in gradients of deep blues and vibrant greens.",
     bg: "bg-catkrill",
   },
   {
     id: 3,
     icon: "/assets/img/photograph.svg",
-    title: "Photography",
+    title: "",
     description:
       "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
     bg: "bg-catkrill",
@@ -26,7 +26,7 @@ export const items = [
   {
     id: 4,
     icon: "/assets/img/webdev.svg",
-    title: "Web Development",
+    title: "",
     description:
       "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
     bg: "bg-prink",

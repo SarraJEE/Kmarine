@@ -1,8 +1,5 @@
 export const bioData = {
-  descOne: `I'm Creative Director and UI/UX Designer
-    from Sydney, Australia, working in web development and print media. I enjoy
-    turning complex problems into simple, beautiful and intuitive designs.`,
-  descTwo: `My aim is to bring across your message and
-    identity in the most creative way. I created web design for many famous brand
-    companies.`,
+  descOne: `Seaweed has long been recognised as a valuable source of diverse bioactive compounds and has great potential to be used in pharmaceuticals, nutraceuticals and cosmetics industries. However, until now, seaweed has been underexploited in Algeria. seaweed biomass production could become more economically and environmentally sustainable.
+  K marine is project to boost the Blue Economy.`,
+  descTwo: ``,
 };

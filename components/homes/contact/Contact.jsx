@@ -19,14 +19,14 @@ export default function Contact() {
             <h5 className="contact-title">
               I'm always open to discussing produuct
             </h5>
-            <h5 className="contact-title-b">design work or partnerships.</h5>
+            <h5 className="contact-title-b"></h5>
            <ContactForm/>
           </div>
         </div>
 
         <div className="footer-copyright text-center bg-light-white-2 pt-25 pb-25">
           <span>
-            © {new Date().getFullYear()} All Rights Reserved by elite-themes24.
+            © {new Date().getFullYear()} All Rights Reserved.
           </span>
         </div>
       </div>

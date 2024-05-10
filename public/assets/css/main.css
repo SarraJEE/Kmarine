@@ -3482,7 +3482,7 @@ textarea:focus::placeholder {
 .portfolio-modal-box .modal-dialog .modal-content .modal-body .blog-title {
   font-size: 28px;
   text-align: center;
-  color: #fa5252;
+  color:white;
   margin-bottom: 35px;
 }
 @media (max-width: 767px) {
