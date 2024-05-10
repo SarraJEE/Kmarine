@@ -29,14 +29,5 @@ export const contactData = [
       value: "Algeria",
     },
   },
-  {
-    id: 4,
-    color: "#C17CEB",
-    fontSize: "22px",
-    iconClass: "fa-light fa-calendar-days",
-    text: {
-      label: "Birthday",
-      value: "May 25, 1994",
-    },
-  },
+ 
 ];
