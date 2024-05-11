@@ -1,25 +1,25 @@
-
 import Header from "@/components/homes/headers/Header";
-import MenuTwo from "@/components/homes/menus/MenuTwo";
 import PersonalInfo from "@/components/homes/personalInfo/PersonalInfo";
-
-import Portfolio from "@/components/homes/portfolio/Portfolio";
-
+import AboutOne from "@/components/homes/about/AboutOne";
 import React from "react";
+
+import MenuTwo from "@/components/homes/menus/MenuTwo";
+
 export const metadata = {
-  title: "Portfolio-1 || sarlkmarine",
+  title: "Home-1 || sarlkmarine",
   description:
-    "",
+    "Discover Botami,the most impressive portfolio template for work showcase, blog",
 };
-export default function page() {
+
+export default function Home1() {
   return (
     <>
-      <div className="page-wrapper home-1" id={"portfolio"}>
+      <div className="page-wrapper home-1" id="home-1">
         <Header />
         <div className="container z-index-3">
           <div className="row">
             <PersonalInfo />
-            <Portfolio />
+            <AboutOne />
             <MenuTwo />
           </div>
         </div>
