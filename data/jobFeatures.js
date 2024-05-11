@@ -1,7 +1,7 @@
 export const items = [
   {
     id: 1,
-    icon: "/assets/img/kariwork1.jpg",
+    icon: "/assets/img/Ido2.jpg",
     title: "",
     description:
       "Conducting Phycocyanin Extraction Trials at SARL K marine.",
@@ -17,18 +17,18 @@ export const items = [
   },
   {
     id: 3,
-    icon: "/assets/img/photograph.svg",
+    icon: "/assets/img/Ido1.jpg",
     title: "",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
+      "Dive into the world of spirulina cultivation ",
     bg: "bg-catkrill",
   },
   {
     id: 4,
-    icon: "/assets/img/webdev.svg",
+    icon: "/assets/img/Ido3.jpg",
     title: "",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
+      "Basin System With Nanotube Agitation",
     bg: "bg-prink",
   },
 ];

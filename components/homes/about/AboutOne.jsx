@@ -37,8 +37,8 @@ export default function AboutOne() {
                   <div className={`bostami-what-do-item ${elm.bg} `}>
                     <div className="icon" style={{ margin: "0 auto" }}>
                       <Image
-                        height={40}
-                        width={130}
+                        height={100}
+                        width={200}
                         style={{ margin: "0 auto" }}
                         src={elm.icon}
                         alt="feature"
