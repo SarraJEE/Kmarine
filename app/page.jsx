@@ -7,7 +7,7 @@ import Portfolio from "@/components/homes/portfolio/Portfolio";
 
 import React from "react";
 export const metadata = {
-  title: "Portfolio-1 || srlkmarine",
+  title: "Portfolio-1 || sarlkmarine",
   description:
     "",
 };
