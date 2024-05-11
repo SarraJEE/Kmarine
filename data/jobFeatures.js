@@ -9,7 +9,7 @@ export const items = [
   },
   {
     id: 2,
-    icon: "/assets/img/kariwork2.jpg",
+    icon: "/assets/img/Ido.jpg",
     title: "",
     description:
       "Witness nature's artistry unfold in gradients of deep blues and vibrant greens.",
